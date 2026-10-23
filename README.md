@@ -70,7 +70,10 @@ LLM Agent 的「会话易散、上下文易失」顽症，被三件器物治住�
 
 如需完整版或交付辅导（帮你把朝廷在本团队落地），直接联系我们：
 
-- **微信**：`datawhy2026`
+- **微信**：扫码即加，或搜 `datawhy2026`
+
+  <a href="assets/wechat-qrcode.jpg"><img src="assets/wechat-qrcode.jpg" width="220" alt="微信二维码"></a>
+
 - **邮箱**：13560079276@163.com
 - **公众号**：治数量化（运营实录与方法论长文首发地）
 
